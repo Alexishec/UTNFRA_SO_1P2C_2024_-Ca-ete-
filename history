@@ -1,0 +1,1065 @@
+ls -l
+ll
+ls -la
+tree --version
+sudo apt upgrade
+sudo apt update
+sudo apt install tree
+tree --version
+pwd
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone git@github.com:Alexishec/UTNFRA_SO_1P2C_2024_-Ca-ete-.git
+ls -l
+git clone https://github.com/Alexishec/UTNFRA_SO_1P2C_2024_-Ca-ete-.git
+ls -l
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+source  ~/.bashrc  && history -a
+source  ~/.bashrc
+history -a
+history 
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+source  ~/.bashrc  && history -a
+/.bashrc
+~/.bashrc
+history -a
+ls -l
+ls -l UTN-FRA_SO_Examenes/
+mkdir repogit
+ls -l
+pwd
+cd..
+cd ..
+cd vagrant/
+pwd
+ls
+ls -l
+cd repogit/
+git clone  https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone https://github.com/Alexishec/UTNFRA_SO_1P2C_2024_-Ca-ete-.git
+ls
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+sudo ~/.bashrc && history -a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc 
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+sudo ~/.bashrc
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+sudo ~/.bashrc && history -a
+
+d
+cd..
+cd ..
+aasd
+ssh-keygen -t ed25519 -C "alexishector310804@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+rm repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/
+tree repogit/
+ls -l repogit/
+tree UTNFRA_SO_1P2C_2024_-Ca-ete-/
+asd
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc 
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+source  ~/.bashrc  && history -a
+ls -l repogit/
+ls -l repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/
+tree UTNFRA_SO_1P2C_2024_-Ca-ete-/
+mkdir /Examenes-UTN/{alumno_{1..3}/parcial_{1..3}},profesores
+mkdir -p /Examenes-UTN/{alumno_{1..3}/parcial_{1..3}},profesores
+sudo mkdir -p /Examenes-UTN/{alumno_{1..3}/parcial_{1..3}},profesores
+ls -l /Examenes-UTN/
+tree /Examenes-UTN/
+rm -r /Examenes-UTN
+sudo rm -r /Examenes-UTN
+sudo mkdir -p /Examenes-UTN/{alumno_{1..3}/{parcial_{1..3}},profesores}
+tree /Examenes-UTN/
+sudo rm -r /Examenes-UTN
+sudo mkdir -p /Examenes-UTN/{alumno_{1..3}/parcial_{1..3},profesores}
+tree /Examenes-UTN/
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+./repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+/.repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+sudo ./ repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+sudo ./repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+ls -l repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+ls
+ls -l
+vim Punto_A.sh 
+bash Punto_A.sh 
+cd
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+vim Punto_A.sh 
+cd
+./ repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+/ .repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+/. repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+./repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+vim Punto_A.sh 
+cd
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+history 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+rm -r /Examenes-UTN
+sudo rm -r /Examenes-UTN
+tree /Examenes-UTN/
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+tree /Examenes-UTN/
+fdisk -l
+sudo fdisk -l
+ls -l
+sudo rm UTN-FRA_SO_Examenes/
+sudo rm UTN-FRA_SO_Examenes
+sudo rm -R UTN-FRA_SO_Examenes
+sudo rm -R UTNFRA_SO_1P2C_2024_-Ca-ete-/
+ls -l
+touch bucle_for.ssh
+ls -l
+chmod 755 bucle_for.ssh 
+ls -l
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+vim bucle_for.ssh 
+bash bucle_for.ssh 
+touch particion_discos.ssh
+sudo chmod 755 particion_discos.ssh 
+ls -l
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+sudo fdisk /dev/sdb
+bash particion_discos.ssh 
+sudo fdisk /dev/sdc
+vim particion_discos.ssh 
+sudo fdisk /dev/sdc
+lsblk -l
+sudo fdisk -l
+bash particion_discos.ssh 
+sudo fdisk -l | grep Devide
+sudo fdisk -l | grep Disk
+sudo fdisk -l | tail
+sudo fdisk -l | tail tail
+vim particion_discos.ssh 
+sudo bash particion_discos.ssh 
+sudo fdisk -l | tail tail
+sudo fdisk -l | tail
+vim particion_discos.ssh 
+touch configuracion_discos.ssh
+chmod 755 configuracion_discos.ssh 
+vim configuracion_discos.ssh 
+vim particion_discos.ssh 
+ls -l
+bash particion_discos.ssh 
+sudo fdisk -l | grep Disk identifier
+sudo fdisk -l | grep "Disk identifier"
+sudo fdisk -l | grep "Disk identifier" | awk -F ":" '{print "{$3..}"}'
+sudo fdisk -l | grep "Disk identifier" | awk -F ":" '{print "{$3}"}'
+sudo fdisk -l | grep "Disk identifier" | awk -F ":" '{print "$3.."}'
+sudo fdisk -l | grep "Disk identifier" | awk -F ":" '{print "$3"}'
+sudo fdisk -l | grep "Disk identifier" | awk -F ":" '{print $3}'
+sudo fdisk -l | grep "Disk identifier" | awk -F ":" '{print {$3..}}'
+sudo fdisk -l | grep "Disk identifier" | awk -F ":" '{print}'
+sudo fdisk -l | grep "Devices" | awk -F ":" '{print}'
+sudo fdisk -l | grep "Devices" 
+sudo fdisk -l | tail
+sudo fdisk -l | grep "/dev/sdc" 
+sudo fdisk -l | grep "/dev/sdc" | tail 
+sudo fdisk -l | grep "/dev/sdc" 
+sudo fdisk -l | grep "/dev/sdc"
+sudo fdisk /dev/sdc
+vim particion_discos.ssh 
+vim configuracion_discos.ssh 
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+vim bucle_for.ssh 
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+vim particion_discos.ssh 
+sudo fdisk /dev/sdc
+bash particion_discos.ssh 
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+sudo fdisk -l | tail
+vim particion_discos.ssh 
+sudo fdisk /dev/sdc
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+sudo fdisk /dev/sdc
+sudo fdisk -l
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+sudo fdisk desdc
+p
+sudo fdisk /dev/sdc
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+exit
+ls -l
+rm configuracion_discos.ssh 
+ls -l
+touch algo.txt
+echo "Hola" >> algo.txt 
+cat algo.txt 
+echo ""> algo.txt
+cat algo.txt 
+echo "adios" >> algo.txt 
+cat algo.txt 
+rm algo.txt 
+ls -l
+ls-l
+ls -l
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+ls -l
+sudo fdisk  -l
+sudo fdisk /dev/sdc
+sudo fdisk /dev/sdc | tail
+sudo fdisk  -l | tail
+vim particion_discos.ssh 
+vim algo.txt 
+bash particion_discos.ssh 
+sudo fdisk  -l | tail
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+sudo fdisk /dev/sdc
+bash particion_discos.ssh 
+vim particion_discos.ssh 
+sudo apt update
+sudo apt upgrade
+vim particion_discos.ssh 
+vim algo.txt 
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+vim particion_discos.ssh 
+vim algo.txt 
+vim particion_discos.ssh 
+bash particion_discos.ssh 
+vim particion_discos.ssh 
+touch particion.ssh
+vim particion
+vim particion.ssh 
+chmod 755 particion.ssh 
+ls -l
+rm particion_discos.ssh
+ls -l
+sudo fdisk /dev/sdc
+sudo fdisk  -l
+bash particion.ssh
+sudo fdisk /dev/sdc
+vim particion.ssh 
+sudo fdisk -l |tail
+sudo fdisk /dev/sdc
+bash particion.ssh 
+sudo fdisk /dev/sdc
+vim particion.ssh 
+bash particion.ssh 
+vim particion.ssh 
+bash particion.ssh 
+sudo fdisk /dev/sdc
+vim particion.ssh 
+vim algo.txt 
+vim particion.ssh 
+vim algo.txt 
+bash particion.ssh 
+vim algo.txt 
+sudo fdisk /dev/sdc
+bash particion.ssh 
+vim particion.ssh 
+sudo fdisk /dev/sdc
+bash particion.ssh 
+sudo fdisk /dev/sdc
+vim particion.ssh 
+sudo fdisk /dev/sdc
+bash particion.ssh 
+sudo fdisk -l
+sudo fdisk -l | tail
+sudo fdisk -l | grep /dev/sdc
+vim particion.ssh 
+sudo fdisk /dev/sdc
+sudo fdisk -l | grep /dev/sdc
+bash particion.ssh 
+sudo fdisk /dev/sdc
+touch borrar_particion.ssh | chmod 755 borrar_particion.ssh
+ls -l
+rm algo.txt 
+ls -l
+vim borrar_particion.ssh 
+vim particion.ssh 
+vim borrar_particion.ssh 
+bash particion.ssh 
+bash borrar_particion.ssh 
+vim borrar_particion.ssh 
+bash borrar_particion.ssh 
+vim borrar_particion.ssh 
+sudo fdisk /dev/sdc
+vim borrar_particion.ssh 
+vim borrar.txt 
+vim borrar_particion.ssh 
+bash borrar_particion.ssh 
+vim borrar.txt 
+vim borrar_particion.ssh 
+bash borrar_particion.ssh 
+sudo fdisk -l
+ls -l
+bash particion.ssh 
+bash borrar_particion.ssh 
+sudo fdisk -l
+exit
+sudo fdisk -l
+ls -l
+cat particion.ssh 
+ls -l
+bash particion.ssh 
+vim particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh 
+vim particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh 
+lsblk -f
+ls -l
+cd..
+cd ..
+ls -l
+cd vagrant/
+ls -l
+ls -l repogit/
+ls -l repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/
+ls -l repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+cd /Examenes-UTN/
+ls -l
+cd
+tree /Examenes-UTN/
+vim particion.ssh 
+rm /Examenes-UTN/
+sudo rm /Examenes-UTN/
+sudo rm -r /Examenes-UTN/
+tree /Examenes-UTN/
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+tree /Examenes-UTN/
+sudo rm -r /Examenes-UTN/
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash Punto_A.sh 
+cd
+tree /Examenes-UTN/
+tree repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+tree /Examenes-UTN/
+vim particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh
+vim particion.ssh 
+tree /Examenes-UTN/
+vim particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh
+lsblk -f
+tree /Examenes-UTN/
+vim particion.ssh 
+vim borrar_particion.ssh 
+lsblk -l
+vim borrar_particion.ssh 
+bash borrar_particion.ssh 
+lsblk -f
+bash particion.ssh 
+lsblk -f
+sudo fdisk /dev/sdb
+sudo fdisk /dev/sdc
+vim particion.ssh 
+a
+bash borrar_particion.ssh 
+sudo fdisk -l
+bash particion.ssh 
+bash borrar_particion.ssh 
+vim particion.ssh 
+bash particion.ssh 
+bash borrar_particion.ssh 
+vim borrar_particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh 
+vim particion.ssh 
+vim borrar_particion.ssh 
+bash borrar_particion.ssh 
+sudo fdisk -l
+vim borrar_particion.ssh 
+bash particion.ssh 
+tree /Examenes-UTN/
+bash borrar_particion.ssh 
+tree /Examenes-UTN/
+bash particion.ssh 
+tree /Examenes-UTN/
+vim particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh 
+vim particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh 
+vim particion.ssh 
+vim borrar_particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh 
+vim particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh
+cat /etc/fstab
+vim particion.ssh 
+bash borrar_particion.ssh 
+bash particion.ssh 
+bash borrar_particion.ssh 
+vim particion.ssh 
+bash particion.ssh 
+exit
+sudo fdisk /dev/sdc
+tree /Examenes-UTN/
+bash borrar_particion.ssh 
+cat /etc/fstab
+bash particion.ssh 
+cat /etc/fstab
+vim particion.ssh 
+ls repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+cp particion.ssh repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_B.sh 
+tree /Examenes-UTN/
+bash borrar_particion.ssh 
+sudo rm -r /Examenes-UTN/
+tree /Examenes-UTN/
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_B.sh 
+cat /etc/fstab 
+sudo vim /etc/fstab 
+cat /etc/fstab 
+bash borrar_particion.ssh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_B.sh 
+sudo passwd
+cat passwd
+passwd
+sudo cat /etc/shadow | grep vagrant
+sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print}'
+sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print $2}'
+tree /Examenes-UTN/
+groupadd p1c2_2024_gAlumno
+sudo groupadd p1c2_2024_gAlumno
+useradd -m -s /bin/bash -c "primer_alumno" -G p1c2_2024_gAlumno p1c2_2024_A1
+sudo useradd -m -s /bin/bash -c "primer_alumno" -G p1c2_2024_gAlumno p1c2_2024_A1
+history 
+touch punto_E.ssh
+chmod 755 punto_E.ssh 
+vim punto_E.ssh 
+ls -l
+grep p1c2_2024_A1 /etc/passwd
+grep -i p1c2_2024_gAlumno /etc/group
+sudo groupadd p1c2_2024_gProfesores
+grep -i p1c2_2024_gProfesores /etc/group
+vim punto_E.ssh 
+sudo useradd -m -s /bin/bash -c "segundo_alumno" -G p1c2_2024_gAlumno p1c2_2024_A2
+sudo useradd -m -s /bin/bash -c "segundo_alumno" -G p1c2_2024_gAlumno p1c2_2024_A3
+sudo useradd -m -s /bin/bash -c "segundo_alumno" -G p1c2_2024_gAlumno p1c2_2024_P1
+history 
+vim punto_E.ssh 
+sudo userdel -r p1c2_2024_P1
+ls -l /etc/passwd
+ls -l /home
+sudo userdel -r p1c2_2024_A3
+ls -l /home
+sudo useradd -m -s /bin/bash -c "segundo_alumno" -G p1c2_2024_gAlumno p1c2_2024_A3
+ls -l /home
+sudo useradd -m -s /bin/bash -c "profesor" -G p1c2_2024_gProfesores p1c2_2024_P1
+ls -l /home
+passwd
+sudo cat /etc/shadow
+sudo cat /etc/shadow | gep vagrant
+sudo cat /etc/shadow | grep vagrant
+sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print$2}'
+history | grep userdel
+history | adduser
+history | grep adduser
+history 
+history | grep userdel
+sudo userdel -r p1c2_2024_P1
+sudo userdel -r p1c2_2024_P2
+sudo userdel -r p1c2_2024_P3
+sudo userdel -r p1c2_2024_A3
+sudo userdel -r p1c2_2024_A2
+sudo userdel -r p1c2_2024_A1
+ls -l /home
+sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print$2}'
+$contraseña_usuarios(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print$2})'
+$contraseña_usuarios=$(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print$2})'
+contraseña=$(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print $2}')
+cat contraseña
+$PSWDD=$(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print $2}')
+$contraseña=$(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print $2})'
+a
+
+sudo cat /etc/passwd | grep vagrant
+sudo grep vagrant /etc/shadow
+contraseña=$(sudo grep vagrant /etc/shadow | awk -F ":" '{print $2}')
+sudo useradd -m -s /bin/bash -c "primer_alumno" -p "$(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print$2}')" -G p1c2_2024_gAlumno p1c2_2024_A1
+grep p1c2_2024_A1 /etc/shadow 
+sudo grep p1c2_2024_A1 /etc/shadow 
+sudo grep vagrant /etc/shadow 
+sudo useradd -m -s /bin/bash -c "segundo_alumno" -p "$(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print$2}')" -G p1c2_2024_gAlumno p1c2_2024_A2
+sudo useradd -m -s /bin/bash -c "tercer_alumno" -p "$(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print$2}')" -G p1c2_2024_gAlumno p1c2_2024_A3
+sudo useradd -m -s /bin/bash -c "profesor" -p "$(sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print$2}')" -G p1c2_2024_gProfesores p1c2_2024_P1
+history | grep useradd
+vim punto_E.ssh 
+tree /Examenes-UTN/
+chmod 750 /Examenes-UTN/alumno_1
+sudo chmod 750 /Examenes-UTN/alumno_1
+sudo chmod 760 /Examenes-UTN/alumno_2
+sudo chmod 700 /Examenes-UTN/alumno_3
+sudo chmod 775 /Examenes-UTN/profesores
+tree /Examenes-UTN/
+ls -l /Examenes-UTN/
+history | grep chmod
+vim punto_E.ssh 
+sudo chown p1c2_2024_A1:p1c2_2024_A1 /Examenes-UTN/alumno_1
+sudo chown p1c2_2024_A2:p1c2_2024_A2 /Examenes-UTN/alumno_2
+sudo chown p1c2_2024_A3:p1c2_2024_A3 /Examenes-UTN/alumno_3
+sudo chown p1c2_2024_P1:p1c2_2024_gPr
+ofesores /Examenes-UTN/profesores
+sudo chown p1c2_2024_P1:p1c2_2024_gProfesores /Examenes-UTN/profesores
+ls -l /Examenes-UTN/
+history | grep sudo chown p1
+history | grep sudo chown 
+history | grep p1
+vim punto_E.ssh 
+ls -l /home/
+su - p1c2_2024_A1
+ls -l /home/
+su - p1c2_2024_A1
+sudo su - p1c2_2024_A1
+ls -l /home/
+sudo su - p1c2_2024_A1
+sudo su - p1c2_2024_A2
+sudo su - p1c2_2024_A3
+sudo su - p1c2_2024_P1
+history
+ls -l /home/
+whoami p1c2_2024_A1
+whoami
+p1c2_2024_A1 whoami
+touch hola.ssh
+chmod 777 hola.ssh 
+vim hola.ssh 
+bash hola.ssh 
+sudo -u p1c2_2024_A1 whoami
+rm hola.ssh 
+vim punto_E.ssh 
+sudo rm -r /Examenes-UTN/
+sudo rm -r /Examenes-UTN
+ls -l
+bash borrar_particion.ssh 
+sudo rm -r /Examenes-UTN/
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh 
+touch delete_users.ssh
+chmod 755 delete_users.ssh 
+ls -l /home/
+vim delete_users.ssh 
+bash delete_users.ssh 
+ls -l /home/
+ls -l /Examenes-UTN/
+tree /Examenes-UTN/
+bash punto_E.ssh 
+vim punto_E.ssh 
+bash delete_users.ssh 
+bash punto_E.ssh 
+whoami
+vim punto_E.ssh 
+sudo -u p1c2_2024_A1 pwd
+ls -l
+history | grep cp
+cp punto_E.ssh repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_C.sh 
+ls -l
+bash delete_users.ssh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_C.sh
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_C.sh
+bash delete_users.ssh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_C.sh
+touch puntoD.ssh
+chmod 755 puntoD.ssh 
+pwd
+ls /home/
+ls -l ./
+ls -l /.
+mkdir -p Estructura_Asimetrica/{correo,clientes}/punto{1..2}
+tree Estructura_Asimetrica/
+mkdir -p Estructura_Asimetrica/{correo,clientes}/punto{1..2},nana
+tree Estructura_Asimetrica/
+mkdir -p Estructura_Asimetrica/{correo,clientes}/punto{1..2},nana, hola
+tree Estructura_Asimetrica/
+sudo rm -r Estructura_Asimetrica/
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh
+sudo mkdir -p Estructura_Asimetrica/{correo,clientes/cartas_{1..10}, correo/carteros{1..3}}
+tree Estructura_Asimetrica/
+sudo rm -r Estructura_Asimetrica/
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_A.sh
+sudo mkdir -p Estructura_Asimetrica/{correo/{cartas_{1..10},carteros_{1..3}},clientes/cartas_{1..10}}
+tree Estructura_Asimetrica/
+sudo rm -r Estructura_Asimetrica/
+sudo mkdir -p Estructura_Asimetrica/{correo/{cartas_{1..100},carteros_{1..10}},clientes/cartas_{1..100}}
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+ls -l
+echo "sudo mkdir -p Estructura_Asimetrica/{correo/{cartas_{1..100},carteros_{1..10}},clientes/cartas_{1..100}}">puntoD.ssh
+echo "tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4">>puntoD.ssh
+vim puntoD.ssh 
+sudo rm -r Estructura_Asimetrica/
+bash puntoD.ssh 
+vim puntoD.ssh 
+sudo rm -r Estructura_Asimetrica/
+bash puntoD.ssh 
+history | grep cp
+cp puntoD.ssh repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_D.sh 
+ls -l
+sudo rm -r Estructura_Asimetrica/
+vim puntoD.ssh repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_D.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_D.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_D.sh 
+sudo rm -r Estructura_Asimetrica/
+ls - repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_ARCHIVOS_Examen_20241004/
+ls -l repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_ARCHIVOS_Examen_20241004/
+cat /proc/cpuinfo 
+cat /proc/cpuinfo | grep MemTotal
+cat /proc/cpuinfo | grep Chasis
+cat /proc/Meinfo | grep MemTotal
+cat /proc/Meminfo | grep MemTotal
+cat /proc/meminfo
+cat /proc/meminfo | grep Me
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}'
+echo=(cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}')
+echo=(cat /proc/meminfo) | grep MemTotal | awk -F ":" '{print $2}'
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}'
+ls -l
+chmod 751
+rm hola
+rm hola/
+sudo rm -r hola
+cat /proc/meminfo | grep MemTotal
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print($2)}'
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}'
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $3}'
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}'
+touch hola.txt
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}'>hola.txt
+cat hola.txt 
+cat /proc/meminfo | grep MemTotal | awk -F ":" 'echo={print $2}'>hola.txt
+cat /proc/meminfo | grep MemTotal | awk -F ":"," " '{print $2}'>hola.txt
+cat hola.txt 
+cat /proc/meminfo | grep MemTotal | awk -F ":","" '{print $2}'>hola.txt
+cat hola.txt 
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}'>hola.txt
+cat hola.txt 
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}' | xargs >hola.txt
+cat hola.txt 
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}' | xargs >repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_ARCHIVOS_Examen_20241004/Filtro_Basico.txt
+cat repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_ARCHIVOS_Examen_20241004/Filtro_Basico.txt
+cat dmidecode -t chassis
+dmidecode -t chassis
+sudo dmidecode -t chassis
+sudo dmidecode -t chassis | grep Manufacter | awk -F ":" '{print $2}' | xargs >> hola.txt
+cat hola.txt 
+sudo dmidecode -t chassis | grep Manufacter | awk -F ":" '{print $2}' | xargs 
+sudo dmidecode -t chassis | grep Manufacter | awk -F ":" '{print $1}' | xargs 
+sudo dmidecode -t chassis | grep Manufacter | awk -F ":" '{print $1}'
+sudo dmidecode -t chassis | grep Manufacter | awk -F ":" '{print $2}'
+sudo dmidecode -t chassis | grep Manufacter 
+sudo cat dmidecode -t chassis | grep Manufacter | awk -F ":" '{print $2}'
+cat dmidecode -t chassis | grep Manufacter 
+vim dmidecode -t chassis | grep Manufacter 
+sudo cat dmidecode -t chassis | grep Manufacturer | awk -F ":" '{print $2}'
+sudo dmidecode -t chassis | grep Manufacturer | awk -F ":" '{print $2}'
+sudo dmidecode -t chassis | grep Manufacturer | awk -F ":" '{print $2}' | xargs >>hola.txt
+cat hola.txt 
+cat /proc/meminfo | grep MemTotal | awk -F ":" '{print $2}' | xargs >hola.txt
+sudo dmidecode -t chassis | grep Manufacturer | awk -F ":" '{print $2}' | xargs >>hola.txt
+cat hola.txt 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_C.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_D.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+history | tail
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+cat repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_ARCHIVOS_Examen_20241004/Filtro_Basico.txt
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+cat repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_ARCHIVOS_Examen_20241004/Filtro_Basico.txt
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+cat repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_ARCHIVOS_Examen_20241004/Filtro_Basico.txt
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+cat git remote get-url origin
+git remote get-url origin
+sudo git remote get-url origin
+key
+curl -s ifconfig.me
+cd repogit/
+git remote get-url origin
+cd
+ls -l
+ls -l correo/
+rm correo/
+rm -r correo/
+sudo rm -r correo/
+ls -l
+git clone git@github.com:Alexishec/UTNFRA_SO_1P2C_2024_-Ca-ete-.git
+ls -l
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/
+ls -l
+tree RTA_SCRIPT_Examen_20241004/
+cd RTA_SCRIPT_Examen_20241004/
+tree
+cat Punto_A.sh 
+cat Punto_B.sh 
+cat Punto_C.sh 
+cat Punto_D.sh 
+cat Punto_E.sh 
+ls -l
+git remote get-url origin 
+curl -s ifconfig.me
+hola=$(curl -s ifconfig.me)
+cat $hola
+curl -s ifconfig.me
+$hola
+curl -s ifconfig.me
+ls -l
+touch hola.txt
+$hola>hola.txt 
+echo "$hola"
+ls -l
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004
+vim Punto_F.sh 
+cd ..
+ls l
+ls -l
+ls -l RTA_ARCHIVOS_Examen_20241004/
+cd RTA_ARCHIVOS_Examen_20241004/
+cd ..
+cd RTA_SCRIPT_Examen_20241004/
+ls -l
+re -r hola.txt 
+rm -r hola.txt 
+vim Punto_F.sh 
+cd
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_E.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+cd 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash Punto_F.sh 
+vim repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+vim Punto_F.sh 
+bash Punto_F.sh 
+vim Punto_F.sh 
+bash Punto_F.sh 
+vim Punto_F.sh 
+bash Punto_F.sh 
+vim Punto_F.sh 
+bash Punto_F.sh 
+vim Punto_F.sh 
+bash Punto_F.sh 
+echo "Hola\nAdios"
+echo "Hola\n Adios"
+echo """HOLA """
+echo """HOLA \nAdios"""
+vim Punto_E
+vim Punto_E.sh 
+bash Punto_E.sh 
+ls -l
+sudo rm -r Filtro_Avanzado.txt 
+vim Punto_F.sh 
+bash Punto_F.sh 
+cd
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/
+ls -l
+cat README.md 
+cat Filtro_Avanzado.txt 
+sudo rm -r Filtro_Avanzado.txt 
+nani README.md 
+vim README.md 
+cd RTA_SCRIPT_Examen_20241004/
+ls -l
+vim Punto_F.sh 
+cd ..
+cd RTA_ARCHIVOS_Examen_20241004/
+ls -l
+cat Filtro_Avanzado.txt 
+pwd
+cd ..
+cd RTA_SCRIPT_Examen_20241004/
+vim Punto_F.sh 
+bash Punto_F.sh 
+vim Punto_F.sh 
+bash Punto_F.sh 
+vim Punto_F.sh 
+bash Punto_F.sh 
+vim Punto_F.sh 
+bash Punto_F.sh 
+cd
+bash repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/Punto_F.sh 
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004
+vim Punto_F.sh 
+vim Punto_E.sh 
+bash Punto_E.sh 
+bash Punto_F.sh 
+cat /etc/shadow
+sudo cat /etc/shadow
+sudo cat /etc/shadow | vagrant
+sudo cat /etc/shadow | grep vagrant
+sudo cat /etc/shadow | grep vagrant | awk -F ":" {print $2} | xargs
+sudo cat /etc/shadow | grep vagrant | awk -F ":" '{print $2}' | xargs
+vim Punto_F.sh 
+bash Punto_F.sh 
+bash Punto_E.sh 
+cd
+tree /Examenes-UTN/
+ls -l
+bash borrar_particion.ssh 
+ls -l
+bash delete_users.ssh 
+ls -l
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004
+ls -l
+vim Punto_A.sh 
+bash Punto_A.sh 
+vim Punto_A.sh 
+bash Punto_A.sh 
+cd
+tree /Examenes-UTN/
+ls -l /Examenes-UTN/alumno_1
+sudo tree /Examenes-UTN/
+sudo rm -r /Examenes-UTN/
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash Punto_A.sh
+vim Punto_A.sh 
+bash Punto_A.sh
+vim Punto_A.sh 
+bash Punto_A.sh
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+vim Punto_A.sh 
+bash Punto_A.sh
+bash Punto_B.sh
+bash Punto_C.sh
+vim Punto_C.sh 
+bash Punto_C.sh
+bash Punto_D.sh
+bash Punto_E.sh
+bash Punto_F.sh
+cd ..
+cd RTA_ARCHIVOS_Examen_20241004/
+ls -l
+cat Filtro_Basico.txt 
+cat Filtro_Avanzado.txt 
+cd 
+ls -
+ls -l
+bash particion.ssh 
+vim /etc/fstab 
+sudo vim /etc/fstab 
+ls -l
+bash delete_users.ssh 
+sudo rm -r /Examenes-UTN/
+ls -l
+bash borrar_particion.ssh 
+ls -l
+sudo rm -r /Examenes-UTN/
+ls -l
+sudo rm -r UTNFRA_SO_1P2C_2024_-Ca-ete-/
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash Punto_A.sh
+bash Punto_B.sh
+bash Punto_C.sh
+bash Punto_D.sh
+bash Punto_E.sh
+bash Punto_F.sh
+ls -l
+bash Punto_D.sh
+vim Punto_D.sh
+bash Punto_D.sh
+cd
+ls -l
+ls repogit/
+ls -l repo
+ls -l repogit/
+ls -l repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/
+ls -l repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+cat validar.txt 
+vim Punto_C.sh 
+sudo rm -r validar.txt 
+vim Punto_C.sh 
+cat Punto_C.sh 
+bash Punto_C.sh 
+cat Punto_C_validar.txt 
+ls -l
+vim Punto_B.sh 
+cd
+ls -l
+bash borrar_particion.ssh 
+ls -l
+bash delete_users.ssh 
+sudo rm -r /Examenes-UTN/
+ls -l
+sudo rm -r validar.txt 
+sudo rm -r Filtro_Avanzado.txt 
+cat hola.txt 
+rm hola.txt 
+ls -l
+sudo fdisk -f
+sudo fdisk -l
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash Punto_A.sh 
+bash Punto_B.sh 
+bash Punto_C.sh 
+bash Punto_D.sh 
+vim Punto_D.sh 
+bash Punto_D.sh 
+ls -l
+tree repogit/
+sudo rm -r repogit/
+ls -l
+vim Punto_D.sh 
+bash Punto_D.sh 
+ls -l
+sudo rm -r repogit/
+vim Punto_D.sh 
+bash Punto_D.sh 
+ls -l
+cat Punto_B_discos.txt 
+cat discos.txt 
+rm discos.txt 
+cd ..
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd home/
+cd vagrant/
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash Punto_D.sh 
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+vim Punto_D.sh 
+bash Punto_D.sh 
+cd
+ls -l
+tree Estructura_Asimetrica/
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/RTA_SCRIPT_Examen_20241004/
+bash Punto_D.sh 
+vim Punto_D.sh 
+bash Punto_D.sh 
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd UTNFRA_SO_1P2C_2024_-Ca-ete-/
+ls -l
+vim README.md 
+history -a
+pwd
+history
+history -a
+$HOME
+$HOME/.bash_history
+sudo $HOME/.bash_history
+.bash_history
+$HOME/.bash_history
+sudo $HOME/.bash_history
+cat $HOME/.bash_history
+git status
+history -a
+$HOME/.bash_history
+git status
+git add .
+git commit "Parcial"
+git commit -m "Parcial"
+git config --global user.email "alexishector310804@gmail.com"
+git config --global user.name "Alexishec"
+git commit -m "Parcial"
+git status
+git push
+git status
+git push origin main
+git status
+cd repogit/
+git status
+cd UTNFRA_SO_1P2C_2024_-Ca-ete-/
+git status
+git push
+vim ~/.bash_history
+cd ~/bash_history ~/repogit/UTNFRA_SO_1P2C_2024_
+vim ~/.bash_history
+git status
+history -a
+cp ~/bash_history ~/repogit/UTNFRA_SO_1P2C_2024_
+history -a
+cd repogit/UTNFRA_SO_1P2C_2024_-Ca-ete-/
+git status
