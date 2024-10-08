@@ -1,0 +1,4 @@
+Mi IP publica es: 186.128.185.158
+Mi usuario es: vagrant
+Mi Hash es: $y$j9T$ULhj2pYaljH9/IvEcYtEm1$5G0siIA8kL/Kf664TiXzAYJr1aGC7W8vLAL5g8z6Oq9
+La URL de mi repositorio es: https://github.com/Alexishec/UTNFRA_SO_1P2C_2024_-Ca-ete-.git
