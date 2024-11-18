@@ -7,6 +7,8 @@ División: 311
 
 El repositorio para el parcial de Arquitectura y Sistemas operativos
 
+actualmente incompleto por problemas personales
+
 --------------------------------------
 
 
